@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* this ia a nav section*/
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 10px;
+}
+
+.menus {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    font-size: 18px;
+    font-style: italic;
+    align-items: center;
+
+}
